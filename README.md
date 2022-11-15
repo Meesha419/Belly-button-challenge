@@ -10,4 +10,4 @@ are present in more than 70% of people, while the rest are relatively rare.
 
 These visualizations are accessed via dropdown menu, which is created with Javascipt.
 Each option provides information of the individual- i:e: Age, Gender, Ethnicity etc...
-Three visualisation is built for each subject - Bar and Bubble chart and a guage to display the washing frequency.![Dashboard](https://user-
+Three visualisation is built for each subject - Bar and Bubble chart and a guage to display the washing frequency.
